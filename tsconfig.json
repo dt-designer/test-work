@@ -14,13 +14,14 @@
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
-    "moduleResolution": "node",
+    "moduleResolution": "Node",
     "importHelpers": true,
-    "target": "ES2022",
-    "module": "ES2022",
+    "target": "es2020",
+    "module": "es2020",
+    "allowJs": true,
     "useDefineForClassFields": false,
     "lib": [
-      "ES2022",
+      "es2022",
       "dom"
     ]
   },
