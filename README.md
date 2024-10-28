@@ -1,5 +1,12 @@
 # Test Work
 
+No need to install third-party libraries. Standard methods from the Angular box are used. For proper operation, you need to register work with workers in config, below is an example for setting up a worker in a clean Angular project. I took the styles from Bootstrap (I admit, I use these styles for test tasks, so I took a ready-made file and edited it).
+
+
+Install dependencies:
+`npm install -g @angular/cli@15`
+When installing, you must select `SCSS` as a CSS preprocessor
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
 
 ## Development server
